@@ -2,7 +2,7 @@
 
 # 🚀 Shiva Kumar Yallanti
 
-### **Azure Data Engineer | Databricks · ADF · Synapse Analytics · PySpark**
+### **Azure Data Engineer | Databricks · ADF · Synapse Analytics · PySpark • Fabric**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-yallanti-740aa992/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivakumaryallanti5@gmail.com)
@@ -44,7 +44,6 @@ Passionate about **Medallion Architecture**, **metadata-driven pipelines**, and 
                     - - CI/CD pipelines and automated monitoring/alerting frameworks
                      
                       - ### 📊 Data Warehousing & Analytics
-                      - - **Snowflake** cloud data warehouse optimization and SQL transformations
                         - - **Azure Synapse Analytics** for large-scale analytical workloads
                           - - **Power BI** reporting and dashboard development
                            
