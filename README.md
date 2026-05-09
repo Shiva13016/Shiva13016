@@ -74,7 +74,6 @@ Passionate about **Medallion Architecture**, **metadata-driven pipelines**, and 
                                   ### 🧑‍💻 Languages & Frameworks
                                   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
                                   ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-                                  ![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
                                   ### 🔧 DevOps & Tools
                                   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
