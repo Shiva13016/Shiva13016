@@ -4,7 +4,7 @@
 
 ### **Azure Data Engineer | Databricks & Apache Spark Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-740aa992/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-yallanti-740aa992/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivakumaryallanti5@gmail.com)
 [![Microsoft Certified](https://img.shields.io/badge/DP--900%20Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-data-fundamentals/)
 
@@ -126,7 +126,7 @@ Passionate about transforming complex data challenges into elegant, efficient so
 
 📧 **[shivakumaryallanti5@gmail.com](mailto:shivakumaryallanti5@gmail.com)** | 📱 **+1 226-210-1440** | 📍 **Toronto, Canada**
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-740aa992/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-yallanti-740aa992/)
 
 </div>
 
