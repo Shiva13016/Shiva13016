@@ -47,11 +47,6 @@ Passionate about transforming complex data challenges into elegant, efficient so
 - Analytics pipeline development and performance tuning
 - Modern dimensional modeling and data mart design
 
-### 🔗 **ML & Advanced Analytics**
-- **MLflow** integration for experiment tracking and model registry
-- ML pipeline orchestration and reproducibility
-- Feature engineering and data preparation for ML workloads
-
 ### 🛡️ **Security & Compliance**
 - Azure RBAC, encryption, and access control implementation
 - Data governance and quality frameworks
